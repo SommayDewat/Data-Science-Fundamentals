@@ -1,0 +1,10 @@
+{
+  "rows_after_cleaning": 6,
+  "columns": 4,
+  "missing_values_after_cleaning": 0,
+  "duplicate_rows_after_cleaning": 0,
+  "unique_customer_ids": true,
+  "age_range_valid": true,
+  "purchase_amount_non_negative": true,
+  "imputation_note": "Missing ages and purchase amounts were filled with the respective medians for this teaching exercise."
+}
